@@ -5,5 +5,3 @@ SSH: git@github.com:gavinkumar8/My-First-Repo.git
 
 git config --global user.email "gavinkumar8@gmail.com"
 git config --global user.name "gavinkumar8"
-
-this is test
